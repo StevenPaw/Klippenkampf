@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/MHLab/Patch/Launcher/Scenes/Launcher.unity
     guid: 62bbf456ac1f00d47a1374cb8f720350
   - enabled: 0
+    path: Assets/MHLab/Patch/Launcher/Scenes/PreGame.unity
+    guid: 98697cd740c1eb148b123f3c1128479b
+  - enabled: 0
     path: Assets/Scenes/Scene_Lobby.unity
     guid: 987ad0b9eebe99e4395f67cd94f399b9
   - enabled: 0

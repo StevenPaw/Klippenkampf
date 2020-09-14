@@ -135,7 +135,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41e0c81bd484498eaa6f04bb77af227d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RemoteUrl: https://stevenpaw.de/Unity/Klippenkampf
+  RemoteUrl: https://github.com/StevenPaw/Klippenkampf/raw/master/PATCHWorkspace
   LauncherExecutableName: Klippenkampf-Launcher.exe
   GameExecutableName: Klippenkampf.exe
   Dispatcher: {fileID: 1744635116}

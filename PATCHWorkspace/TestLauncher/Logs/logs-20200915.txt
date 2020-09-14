@@ -52,3 +52,66 @@
 2020-09-15 00:45:48.948 +02:00 [WRN] No updater definition found. The Launcher cannot be validated or updated.
 2020-09-15 00:45:48.949 +02:00 [INF] ===> [Launcher updating] process INCOMPLETE: restart is needed! <===
 2020-09-15 00:45:48.979 +02:00 [ERR] ===> [Launcher updating] process FAILED! <===
+2020-09-15 00:59:26.311 +02:00 [INF] ===> [Launcher updating] process STARTED! <===
+2020-09-15 00:59:27.200 +02:00 [INF] Update context initializing...
+2020-09-15 00:59:27.201 +02:00 [INF] Update context points to https://github.com/StevenPaw/Klippenkampf/tree/master/PATCHWorkspace
+2020-09-15 00:59:27.202 +02:00 [WRN] No current version found. A full repair may be required.
+2020-09-15 00:59:27.203 +02:00 [INF] Workspace cleaned. Removed 0 files
+2020-09-15 00:59:27.949 +02:00 [WRN] No patches index found.
+2020-09-15 00:59:27.952 +02:00 [WRN] No builds index found. Problem: Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+  at Newtonsoft.Json.JsonTextReader.ParseValue () [0x002b3] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonTextReader.Read () [0x0004c] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonReader.ReadAndMoveToContent () [0x00000] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonReader.ReadForType (Newtonsoft.Json.Serialization.JsonContract contract, System.Boolean hasConverter) [0x0004a] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000db] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00054] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonConverter[] converters) [0x00017] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonConverter[] converters) [0x00000] in <2073514815234917a5e8f91b0b239405>:0 
+  at MHLab.Patch.Utilities.Serializing.NewtonsoftSerializer.Deserialize[TObject] (System.String data) [0x00000] in F:\Dateien\2 Meine Unternehmen\SP Design\Spiele\Klippenkampf\Assets\MHLab\Patch\Utilities\Serializing\NewtonsoftSerializer.cs:15 
+  at MHLab.Patch.Core.Client.IO.DownloadsManager.DownloadJson[T] (System.String url, MHLab.Patch.Core.Serializing.ISerializer serializer) [0x00007] in <079ac49fd7f64611b1d5138055d1c37d>:0 
+  at MHLab.Patch.Core.Client.UpdatingContext.<GetBuildsIndex>b__58_0 () [0x00012] in <079ac49fd7f64611b1d5138055d1c37d>:0 
+2020-09-15 00:59:28.128 +02:00 [WRN] No updater definition found. Problem: Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+  at Newtonsoft.Json.JsonTextReader.ParseValue () [0x002b3] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonTextReader.Read () [0x0004c] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonReader.ReadAndMoveToContent () [0x00000] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonReader.ReadForType (Newtonsoft.Json.Serialization.JsonContract contract, System.Boolean hasConverter) [0x0004a] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000db] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00054] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonConverter[] converters) [0x00017] in <2073514815234917a5e8f91b0b239405>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonConverter[] converters) [0x00000] in <2073514815234917a5e8f91b0b239405>:0 
+  at MHLab.Patch.Utilities.Serializing.NewtonsoftSerializer.Deserialize[TObject] (System.String data) [0x00000] in F:\Dateien\2 Meine Unternehmen\SP Design\Spiele\Klippenkampf\Assets\MHLab\Patch\Utilities\Serializing\NewtonsoftSerializer.cs:15 
+  at MHLab.Patch.Core.Client.IO.DownloadsManager.DownloadJson[T] (System.String url, MHLab.Patch.Core.Serializing.ISerializer serializer) [0x00007] in <079ac49fd7f64611b1d5138055d1c37d>:0 
+  at MHLab.Patch.Core.Client.UpdatingContext.<GetUpdaterDefinition>b__57_0 () [0x00012] in <079ac49fd7f64611b1d5138055d1c37d>:0 
+2020-09-15 00:59:28.129 +02:00 [ERR] Cannot retrieve any new version...
+2020-09-15 00:59:28.130 +02:00 [INF] Collected 2 local files.
+2020-09-15 00:59:28.132 +02:00 [ERR] ===> [Launcher updating] process FAILED! <===
+2020-09-15 01:01:11.016 +02:00 [INF] ===> [Launcher updating] process STARTED! <===
+2020-09-15 01:01:11.532 +02:00 [ERR] [Launcher updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+2020-09-15 01:03:18.371 +02:00 [INF] ===> [Launcher updating] process STARTED! <===
+2020-09-15 01:03:19.131 +02:00 [INF] Update context initializing...
+2020-09-15 01:03:19.132 +02:00 [INF] Update context points to https://github.com/StevenPaw/Klippenkampf/raw/master/PATCHWorkspace/
+2020-09-15 01:03:19.133 +02:00 [WRN] No current version found. A full repair may be required.
+2020-09-15 01:03:19.134 +02:00 [INF] Workspace cleaned. Removed 0 files
+2020-09-15 01:03:19.844 +02:00 [INF] Collected 2 local files.
+2020-09-15 01:03:20.584 +02:00 [INF] Retrieved definition for 0.1.2
+2020-09-15 01:03:20.585 +02:00 [INF] Found 0 applicable updates.
+2020-09-15 01:03:20.586 +02:00 [INF] Update context completed initialization.
+2020-09-15 01:03:20.587 +02:00 [INF] Launcher update started. The update contains 156 operations.
+2020-09-15 01:03:20.595 +02:00 [ERR] ===> [Launcher updating] process FAILED! <===
+2020-09-15 01:05:05.344 +02:00 [INF] ===> [Launcher updating] process STARTED! <===
+2020-09-15 01:05:05.949 +02:00 [ERR] [Launcher updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+2020-09-15 01:19:48.012 +02:00 [INF] ===> [Launcher updating] process STARTED! <===
+2020-09-15 01:19:48.749 +02:00 [INF] Update context initializing...
+2020-09-15 01:19:48.750 +02:00 [INF] Update context points to https://github.com/StevenPaw/Klippenkampf/raw/master/PATCHWorkspace
+2020-09-15 01:19:48.751 +02:00 [WRN] No current version found. A full repair may be required.
+2020-09-15 01:19:48.753 +02:00 [INF] Workspace cleaned. Removed 0 files
+2020-09-15 01:19:49.389 +02:00 [INF] Collected 2 local files.
+2020-09-15 01:19:49.801 +02:00 [INF] Retrieved definition for 0.1.2
+2020-09-15 01:19:49.802 +02:00 [INF] Found 0 applicable updates.
+2020-09-15 01:19:49.803 +02:00 [INF] Update context completed initialization.
+2020-09-15 01:19:49.804 +02:00 [INF] Launcher update started. The update contains 156 operations.
+2020-09-15 01:19:49.811 +02:00 [ERR] ===> [Launcher updating] process FAILED! <===
