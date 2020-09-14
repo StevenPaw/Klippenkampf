@@ -1,0 +1,6 @@
+2020-09-14 02:24:52.529 +02:00 [INF] ===> [Game updating] process STARTED! <===
+2020-09-14 02:24:56.789 +02:00 [ERR] [Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+2020-09-14 02:29:59.095 +02:00 [INF] ===> [Game updating] process STARTED! <===
+2020-09-14 02:30:02.017 +02:00 [ERR] [Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+2020-09-14 02:37:59.153 +02:00 [INF] ===> [Game updating] process STARTED! <===
+2020-09-14 02:38:02.446 +02:00 [ERR] [Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!

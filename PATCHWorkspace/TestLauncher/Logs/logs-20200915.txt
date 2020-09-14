@@ -1,0 +1,54 @@
+2020-09-15 00:30:52.262 +02:00 [INF] ===> [Launcher updating] process STARTED! <===
+2020-09-15 00:30:56.538 +02:00 [ERR] [Launcher updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+2020-09-15 00:32:53.039 +02:00 [INF] ===> [Launcher updating] process STARTED! <===
+2020-09-15 00:32:55.393 +02:00 [ERR] [Launcher updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+2020-09-15 00:42:31.512 +02:00 [INF] ===> [Launcher updating] process STARTED! <===
+2020-09-15 00:42:31.984 +02:00 [INF] Update context initializing...
+2020-09-15 00:42:31.985 +02:00 [INF] Update context points to https://stevenpaw.de/Unity/Klippenkampf
+2020-09-15 00:42:31.986 +02:00 [WRN] No current version found. A full repair may be required.
+2020-09-15 00:42:31.987 +02:00 [INF] Workspace cleaned. Removed 0 files
+2020-09-15 00:42:33.650 +02:00 [WRN] No patches index found.
+2020-09-15 00:42:33.686 +02:00 [WRN] No updater definition found. Problem: System.Net.WebException: The URL https://stevenpaw.de/Unity/Klippenkampf/Updater/updater_index.json generated an exception. ---> System.Net.WebException: The remote server returned an error: (404) Not Found.
+  at System.Net.HttpWebRequest+<GetResponseFromData>d__240.MoveNext () [0x00152] in <c8c8707b2adc41b09ae682df75fe1fd0>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Net.WebClient.DownloadDataInternal (System.Uri address, System.Net.WebRequest& request) [0x00072] in <c8c8707b2adc41b09ae682df75fe1fd0>:0 
+  at System.Net.WebClient.DownloadData (System.Uri address) [0x00020] in <c8c8707b2adc41b09ae682df75fe1fd0>:0 
+  at System.Net.WebClient.DownloadData (System.String address) [0x00016] in <c8c8707b2adc41b09ae682df75fe1fd0>:0 
+  at (wrapper remoting-invoke-with-check) System.Net.WebClient.DownloadData(string)
+  at MHLab.Patch.Core.Client.IO.DownloadsManager.DownloadString (System.String url) [0x0001c] in <079ac49fd7f64611b1d5138055d1c37d>:0 
+   --- End of inner exception stack trace ---
+  at MHLab.Patch.Core.Client.IO.DownloadsManager.DownloadString (System.String url) [0x00042] in <079ac49fd7f64611b1d5138055d1c37d>:0 
+  at MHLab.Patch.Core.Client.IO.DownloadsManager.DownloadJson[T] (System.String url, MHLab.Patch.Core.Serializing.ISerializer serializer) [0x00000] in <079ac49fd7f64611b1d5138055d1c37d>:0 
+  at MHLab.Patch.Core.Client.UpdatingContext.<GetUpdaterDefinition>b__57_0 () [0x00012] in <079ac49fd7f64611b1d5138055d1c37d>:0 
+2020-09-15 00:42:33.688 +02:00 [INF] Collected 2 local files.
+2020-09-15 00:42:33.847 +02:00 [INF] Retrieved definition for 0.1.1
+2020-09-15 00:42:33.848 +02:00 [INF] Found 0 applicable updates.
+2020-09-15 00:42:33.849 +02:00 [INF] Update context completed initialization.
+2020-09-15 00:42:33.851 +02:00 [WRN] No updater definition found. The Launcher cannot be validated or updated.
+2020-09-15 00:42:33.852 +02:00 [INF] ===> [Launcher updating] process INCOMPLETE: restart is needed! <===
+2020-09-15 00:42:33.924 +02:00 [ERR] ===> [Launcher updating] process FAILED! <===
+2020-09-15 00:45:46.292 +02:00 [INF] ===> [Launcher updating] process STARTED! <===
+2020-09-15 00:45:46.906 +02:00 [INF] Update context initializing...
+2020-09-15 00:45:46.907 +02:00 [INF] Update context points to https://stevenpaw.de/Unity/Klippenkampf
+2020-09-15 00:45:46.908 +02:00 [WRN] No current version found. A full repair may be required.
+2020-09-15 00:45:46.909 +02:00 [INF] Workspace cleaned. Removed 0 files
+2020-09-15 00:45:48.593 +02:00 [WRN] No updater definition found. Problem: System.Net.WebException: The URL https://stevenpaw.de/Unity/Klippenkampf/Updater/updater_index.json generated an exception. ---> System.Net.WebException: The remote server returned an error: (404) Not Found.
+  at System.Net.HttpWebRequest+<GetResponseFromData>d__240.MoveNext () [0x00152] in <c8c8707b2adc41b09ae682df75fe1fd0>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Net.WebClient.DownloadDataInternal (System.Uri address, System.Net.WebRequest& request) [0x00072] in <c8c8707b2adc41b09ae682df75fe1fd0>:0 
+  at System.Net.WebClient.DownloadData (System.Uri address) [0x00020] in <c8c8707b2adc41b09ae682df75fe1fd0>:0 
+  at System.Net.WebClient.DownloadData (System.String address) [0x00016] in <c8c8707b2adc41b09ae682df75fe1fd0>:0 
+  at (wrapper remoting-invoke-with-check) System.Net.WebClient.DownloadData(string)
+  at MHLab.Patch.Core.Client.IO.DownloadsManager.DownloadString (System.String url) [0x0001c] in <079ac49fd7f64611b1d5138055d1c37d>:0 
+   --- End of inner exception stack trace ---
+  at MHLab.Patch.Core.Client.IO.DownloadsManager.DownloadString (System.String url) [0x00042] in <079ac49fd7f64611b1d5138055d1c37d>:0 
+  at MHLab.Patch.Core.Client.IO.DownloadsManager.DownloadJson[T] (System.String url, MHLab.Patch.Core.Serializing.ISerializer serializer) [0x00000] in <079ac49fd7f64611b1d5138055d1c37d>:0 
+  at MHLab.Patch.Core.Client.UpdatingContext.<GetUpdaterDefinition>b__57_0 () [0x00012] in <079ac49fd7f64611b1d5138055d1c37d>:0 
+2020-09-15 00:45:48.783 +02:00 [WRN] No patches index found.
+2020-09-15 00:45:48.785 +02:00 [INF] Collected 2 local files.
+2020-09-15 00:45:48.945 +02:00 [INF] Retrieved definition for 0.1.1
+2020-09-15 00:45:48.946 +02:00 [INF] Found 0 applicable updates.
+2020-09-15 00:45:48.947 +02:00 [INF] Update context completed initialization.
+2020-09-15 00:45:48.948 +02:00 [WRN] No updater definition found. The Launcher cannot be validated or updated.
+2020-09-15 00:45:48.949 +02:00 [INF] ===> [Launcher updating] process INCOMPLETE: restart is needed! <===
+2020-09-15 00:45:48.979 +02:00 [ERR] ===> [Launcher updating] process FAILED! <===

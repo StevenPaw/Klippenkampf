@@ -1,0 +1,1103 @@
+{
+  "Entries": [
+    {
+      "RelativePath": "Klippenkampf.exe",
+      "Size": 639488,
+      "LastWriting": "2020-08-20T23:57:08Z",
+      "Hash": "eUnZG5t0HHnZsBjgQBpXE5yqsSA",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "UnityCrashHandler32.exe",
+      "Size": 1089024,
+      "LastWriting": "2020-08-20T23:51:54Z",
+      "Hash": "/pN3NiXWsZa4AgMGIbL7pwQjENs",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "UnityPlayer.dll",
+      "Size": 21296128,
+      "LastWriting": "2020-08-20T23:58:02Z",
+      "Hash": "hiMqG2FFV/wlyF0x6xMvu3/Inb8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/app.info",
+      "Size": 22,
+      "LastWriting": "2020-09-14T00:46:54.096882Z",
+      "Hash": "lQPDPAnp+CQKrx5jpoVVbwvgtDw",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/boot.config",
+      "Size": 133,
+      "LastWriting": "2020-09-14T00:46:53.9903251Z",
+      "Hash": "3ZLqdB8jd9/WEqgFByWWB8IxgIw",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/globalgamemanagers",
+      "Size": 86452,
+      "LastWriting": "2020-09-14T00:46:53.2918031Z",
+      "Hash": "SMpqOTjiNxzx3ZwYkyFrmcL8Iog",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/globalgamemanagers.assets",
+      "Size": 139484,
+      "LastWriting": "2020-09-14T00:46:53.4865551Z",
+      "Hash": "dHiuUZuwRcoooPs0xZqHSxfc2vs",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/level0",
+      "Size": 17488,
+      "LastWriting": "2020-09-14T00:46:51.6646126Z",
+      "Hash": "xv7Nbs8D6oGUCRE2/3TVlAzLEho",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/resources.assets",
+      "Size": 6648232,
+      "LastWriting": "2020-09-14T00:46:53.757769Z",
+      "Hash": "N/W3DCBEENrfSvDHdEVjTMeyn6E",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/resources.assets.resS",
+      "Size": 9343628,
+      "LastWriting": "2020-09-14T00:46:53.753807Z",
+      "Hash": "Cy+u4c+hbVz/01qyKuWX9M/YMUE",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/sharedassets0.assets",
+      "Size": 60072,
+      "LastWriting": "2020-09-14T00:46:53.8165756Z",
+      "Hash": "L7z2aeVJ/N2jH5CNlTDD9XJIEdA",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/sharedassets0.assets.resS",
+      "Size": 13753396,
+      "LastWriting": "2020-09-14T00:46:53.8165756Z",
+      "Hash": "oplrCY6yXG9RsnGzpCWHpCIH/c4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Assembly-CSharp.dll",
+      "Size": 112128,
+      "LastWriting": "2020-09-14T00:46:50.5629586Z",
+      "Hash": "EA37N6NkcZfTCUCPnIp6ziSF5m8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Cinemachine.dll",
+      "Size": 211968,
+      "LastWriting": "2020-09-14T00:46:48.5214495Z",
+      "Hash": "Jz4olCCQV9vjyQc/aJB02OeQkfo",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/ICSharpCode.SharpZipLib.dll",
+      "Size": 198144,
+      "LastWriting": "2020-07-18T21:37:38Z",
+      "Hash": "/hIbV26s5R5reLt4bLZQDccCBnI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/MHLab.Patch.Core.Admin.dll",
+      "Size": 26112,
+      "LastWriting": "2020-07-18T21:37:26Z",
+      "Hash": "T60e9Q8AX5M3cQruVkZJCHquXh0",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/MHLab.Patch.Core.Client.dll",
+      "Size": 35328,
+      "LastWriting": "2020-07-18T21:37:38Z",
+      "Hash": "eUXnXXrFgmuLyiOFtwi0O8YT/ww",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/MHLab.Patch.Core.dll",
+      "Size": 40448,
+      "LastWriting": "2020-07-18T21:37:26Z",
+      "Hash": "4FnjlKd+HoeAC24B3CDmG4v5Xbk",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Mirror.Authenticators.dll",
+      "Size": 8704,
+      "LastWriting": "2020-09-14T00:46:49.095268Z",
+      "Hash": "teR41L/zF3eVCfJmlLtcrzHe+8o",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Mirror.Cloud.dll",
+      "Size": 21504,
+      "LastWriting": "2020-09-14T00:46:48.4680843Z",
+      "Hash": "RpuY1VBn0MUYaUlOVeBId8+Pv90",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Mirror.Components.dll",
+      "Size": 68608,
+      "LastWriting": "2020-09-14T00:46:49.5423165Z",
+      "Hash": "8w4o/0+lv+44jI+dqwfzByCga88",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Mirror.dll",
+      "Size": 156672,
+      "LastWriting": "2020-09-14T00:46:47.9938182Z",
+      "Hash": "DbD35o1tDpSvmhJJDqXi8yM8Txs",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Mirror.example.RigidbodyPhysics.dll",
+      "Size": 4096,
+      "LastWriting": "2020-09-14T00:46:49.329941Z",
+      "Hash": "5pnAdq9k/KLQbydCHm+8Rd0gOeo",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Mirror.Examples.Cloud.GUI.dll",
+      "Size": 11264,
+      "LastWriting": "2020-09-14T00:46:49.530377Z",
+      "Hash": "THUJqcWiDIySOEukQzCDqeRTpmQ",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Mirror.Examples.Cloud.Pong.dll",
+      "Size": 6144,
+      "LastWriting": "2020-09-14T00:46:50.0982369Z",
+      "Hash": "gRS5RSne5JfoXQrrB5RGsyvWy8A",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Mirror.Examples.dll",
+      "Size": 46080,
+      "LastWriting": "2020-09-14T00:46:49.93887Z",
+      "Hash": "9Yp6jhNDSLEJwt3x0S66PkbtuO8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Mirror.Websocket.dll",
+      "Size": 26112,
+      "LastWriting": "2020-09-14T00:46:48.5074867Z",
+      "Hash": "BCtGbtRlbEWPsUY/Cf39lHs9VjI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Mono.Security.dll",
+      "Size": 310272,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "6UAFjP9dxYTBHcbksRHoWj9soG4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/mscorlib.dll",
+      "Size": 3905024,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "g/3Eyh5pM9RxTFCy8OXW1lo2Jt8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/netstandard.dll",
+      "Size": 84992,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "fIAi//MKRboElA67fvkkqRRgVuM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Newtonsoft.Json.dll",
+      "Size": 693680,
+      "LastWriting": "2020-07-18T21:37:26Z",
+      "Hash": "34P8s2OVlq1C1b6DFO+dZyB5GYs",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Ninja.WebSockets.dll",
+      "Size": 68608,
+      "LastWriting": "2020-09-14T00:46:47.2380205Z",
+      "Hash": "WOoLSo+aOmPRI7YFTFTvNl4JX0M",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Serilog.dll",
+      "Size": 126464,
+      "LastWriting": "2020-07-18T21:37:28Z",
+      "Hash": "xEr4bDjiKNlFnmiBRH+QVeG8Sm8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Serilog.Sinks.File.dll",
+      "Size": 29184,
+      "LastWriting": "2020-07-18T21:37:16Z",
+      "Hash": "T4sHu9j+KqzLeG/iZE3ZapBpTug",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Collections.dll",
+      "Size": 5120,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "rZAqxFblE9xJe3XM10TFtlY7J5A",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.ComponentModel.Composition.dll",
+      "Size": 247808,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "SCDsSnVY4Yqh6hUdIs8ZILgrI6c",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Configuration.dll",
+      "Size": 43008,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "niAmm8D6MGTDi8OwHpw7F7FVNhk",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Core.dll",
+      "Size": 1057792,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "ysgRMu+KdswL7pnfpf/CCWwCuEg",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Data.dll",
+      "Size": 1941504,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "WZa1x4JjGi5/J29fZggJxCGBCRY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Diagnostics.StackTrace.dll",
+      "Size": 6656,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "bFzumljc9JP5TfJ7feF/Gb3wIeM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.dll",
+      "Size": 2278400,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "2gHmmDaOcNAoNN4/ktITF+Log78",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Drawing.dll",
+      "Size": 184320,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "mpWFXd8BZjjnLDu6h0mCOWn82ec",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.EnterpriseServices.dll",
+      "Size": 33280,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "hTXhhnoc0lAKxTlGHWo64IgyB5E",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Globalization.dll",
+      "Size": 5120,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "FIcY44whPeQN7jXhTwqwOAYD9do",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Globalization.Extensions.dll",
+      "Size": 6144,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "RL/x8ksjX3QvhOTxUukS+gRS7J8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.IO.Compression.dll",
+      "Size": 98816,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "w647zVyNmvd8xXnh0zX4z20qJBU",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.IO.Compression.FileSystem.dll",
+      "Size": 23040,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "uAl5lJuBfSav4KiosDWPcE7OgrI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.IO.dll",
+      "Size": 4608,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "w3oZqyrcI/Q5WtXqwqGM9aX93ss",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.IO.FileSystem.dll",
+      "Size": 4608,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "8e8Ty10jKFY4HRP2uOLpXb39pr4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.IO.FileSystem.Primitives.dll",
+      "Size": 4608,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "dGs5pwo7hb9x9XMKbUrwr1PHG7c",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Linq.dll",
+      "Size": 4096,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "fOOc0z949HT40uwPEFj80aa53Zg",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Net.Http.dll",
+      "Size": 114688,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "iKAnTxEJiRyRQvs8S14Efok0rmQ",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Numerics.dll",
+      "Size": 114176,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "4nHOnv5OFAqKVIkgKZK/gPv0WYY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Runtime.dll",
+      "Size": 12800,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "GcDI1G7JMReQ/preT9hV23f2YJ0",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Runtime.Extensions.dll",
+      "Size": 5120,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "6Vu52HnCK5DS31MSQ1aVWhSlfrw",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Runtime.Serialization.dll",
+      "Size": 840704,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "PjiaN5ZWtXhrYByOzQpJ8Rmlyso",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Runtime.Serialization.Xml.dll",
+      "Size": 7168,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "0srTtegP4BBWYTsNlCwXfMbQzKE",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.ServiceModel.Internals.dll",
+      "Size": 218112,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "nv/tWv+kx1ZtRdn8QDE9E2msOeA",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Text.Encoding.dll",
+      "Size": 5120,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "fAZdT1nGMvltlI20wcZWAIJnRts",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Text.Encoding.Extensions.dll",
+      "Size": 4608,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "J62P5HyNTQJ1DYYDo+GhjQ4v7cI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Text.RegularExpressions.dll",
+      "Size": 4608,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "w7X6yHU5cuaKwyuFzETKi1iWbDA",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Threading.dll",
+      "Size": 5632,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "/9s6bx8kULltAQLCwI+++GQYp4Y",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Threading.Timer.dll",
+      "Size": 4608,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "sS2p37wTX93Erpmu6M1iyOCW2aM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Transactions.dll",
+      "Size": 33280,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "zhCHMvnuRMGOZDTIhrzXXhEum70",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Xml.dll",
+      "Size": 2414592,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "5iVBjwZTpyBw4GqkZG/9z+Beax4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Xml.Linq.dll",
+      "Size": 119296,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "J9mvsx21T69xo6eAJfcD5hBDubg",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/System.Xml.XPath.XDocument.dll",
+      "Size": 5120,
+      "LastWriting": "2020-08-20T23:45:06Z",
+      "Hash": "0wN2Wbb5ERsTKBQWJfmarwrzX5Y",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Telepathy.dll",
+      "Size": 14336,
+      "LastWriting": "2020-09-14T00:46:47.1652141Z",
+      "Hash": "2WRAqxuLwEWcg/me18NXzWeCg/A",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Unity.InputSystem.dll",
+      "Size": 676864,
+      "LastWriting": "2020-09-14T00:46:47.895062Z",
+      "Hash": "s5E/C2V18bYaYcyvg4KYh2UYIbc",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Unity.TextMeshPro.dll",
+      "Size": 369152,
+      "LastWriting": "2020-09-14T00:46:47.956918Z",
+      "Hash": "BfZCUid9uPkvJr1VNeXq/VZ2JKk",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/Unity.Timeline.dll",
+      "Size": 110592,
+      "LastWriting": "2020-09-14T00:46:47.2669422Z",
+      "Hash": "A7SEff+Jvs7MihNcm9o7IvYWeLw",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.AccessibilityModule.dll",
+      "Size": 12288,
+      "LastWriting": "2020-08-20T23:57:12Z",
+      "Hash": "ejEFoHxx2mjudoxjuh60M1SIFuQ",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.AIModule.dll",
+      "Size": 45056,
+      "LastWriting": "2020-08-20T23:57:12Z",
+      "Hash": "RuKVnNqXu6eEObgfJBav/b8qnss",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "Size": 57344,
+      "LastWriting": "2020-08-20T23:57:12Z",
+      "Hash": "utM/OHkoAkN4zyXJkqcZGo5xQvc",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.AnimationModule.dll",
+      "Size": 146944,
+      "LastWriting": "2020-08-20T23:57:12Z",
+      "Hash": "nbTqLnw0j49FOroShzLx0AsOGdg",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.ARModule.dll",
+      "Size": 10240,
+      "LastWriting": "2020-08-20T23:57:36Z",
+      "Hash": "mhzZrhZhGjCH5IQNBFfTn630SQk",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "Size": 21504,
+      "LastWriting": "2020-08-20T23:57:16Z",
+      "Hash": "B+d7bMeIIpjmIDmPngSZvtWmj1c",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.AudioModule.dll",
+      "Size": 57856,
+      "LastWriting": "2020-08-20T23:57:12Z",
+      "Hash": "LCPw3FMjAtOXTRG2DqWlzle+biY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.ClothModule.dll",
+      "Size": 14848,
+      "LastWriting": "2020-08-20T23:57:24Z",
+      "Hash": "zIrxG4hHTMKX6lPcd6ng/b1FN0o",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.ClusterInputModule.dll",
+      "Size": 10240,
+      "LastWriting": "2020-08-20T23:57:12Z",
+      "Hash": "I8TpeZRS4tIPDVIh2WG3JYpH+rk",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+      "Size": 11264,
+      "LastWriting": "2020-08-20T23:57:18Z",
+      "Hash": "gJwqmcSyQecNx66alOxoaoZKVeU",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.CoreModule.dll",
+      "Size": 1065984,
+      "LastWriting": "2020-08-20T23:57:08Z",
+      "Hash": "9MpYCs1FeRRahoECCnkZRUHefpE",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.CrashReportingModule.dll",
+      "Size": 9728,
+      "LastWriting": "2020-08-20T23:57:42Z",
+      "Hash": "m8+C/eOw0EyRYu+2gpzi1Xj/JIY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.DirectorModule.dll",
+      "Size": 13824,
+      "LastWriting": "2020-08-20T23:57:20Z",
+      "Hash": "Cz0haDnOxMJot/yq2soYRSUoeHY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.dll",
+      "Size": 88576,
+      "LastWriting": "2020-08-20T23:57:46Z",
+      "Hash": "p+xu/Op1qgj8LILPilfMcIxmiuo",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.DSPGraphModule.dll",
+      "Size": 17920,
+      "LastWriting": "2020-08-20T23:57:18Z",
+      "Hash": "VLd8v8/GODYnXfpZgrbNZMyJ0Jg",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.GameCenterModule.dll",
+      "Size": 27136,
+      "LastWriting": "2020-08-20T23:57:20Z",
+      "Hash": "gMLHH3hWUPnY1dX1Dh35/YTECd8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.GridModule.dll",
+      "Size": 13824,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "H6iaHqjUxra8VhhiJ+PoVVS/BTo",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.HotReloadModule.dll",
+      "Size": 8704,
+      "LastWriting": "2020-08-20T23:57:12Z",
+      "Hash": "gCR9QVTpvQu5pIvbkwelRHW+dVs",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "Size": 12800,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "qHHoXn0qjgDEz5EfJxD1QxWcSSY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "Size": 158720,
+      "LastWriting": "2020-08-20T23:57:26Z",
+      "Hash": "Geoi4bY3kM3af036xIeDAxgKgaM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.InputLegacyModule.dll",
+      "Size": 25600,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "DQtgzn2vk6G7IBWNN6tD00HvgAw",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.InputModule.dll",
+      "Size": 12288,
+      "LastWriting": "2020-08-20T23:57:18Z",
+      "Hash": "7TV+IK5VI6YcVlbV6Rwm/7iQWYs",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "Size": 10752,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "Qk8IGsOx6QXa5KCLuo2/g2ofLzQ",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.LocalizationModule.dll",
+      "Size": 10240,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "uLeJccNJPoMyqP4MSP6KwHGWeYA",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "Size": 137728,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "k/eevh+rTDOKSxEfnJrOB/y6cSc",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+      "Size": 9728,
+      "LastWriting": "2020-08-20T23:57:42Z",
+      "Hash": "Z4XJMUsTXqLUjb60m7/stPmfO+M",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.Physics2DModule.dll",
+      "Size": 107008,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "Ny8p4z6Y+WMaLZ5QwYL3LW0AR9c",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "Size": 93696,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "c0E2ijgOliXgCfDk3mBGq0s3JrY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.ProfilerModule.dll",
+      "Size": 8704,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "IgYovOLVPc2fhvVHVzp+OdOT9bU",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+      "Size": 9728,
+      "LastWriting": "2020-08-20T23:57:20Z",
+      "Hash": "T+OOsR/4MePzrSH1YamiJCXqggM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "Size": 20992,
+      "LastWriting": "2020-08-20T23:51:56Z",
+      "Hash": "9DVQglloYFe3NYSfxHtbgJIWLxk",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+      "Size": 10240,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "xRKAE9T7SY12ov0Dri1LdeaR47I",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "Size": 14336,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "eEL/zF7HPnXlvKh5PzxcQ+cCRJo",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.StreamingModule.dll",
+      "Size": 9728,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "+swIQFcdw7kHGZJgC4A2jKD1I9s",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.SubstanceModule.dll",
+      "Size": 13824,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "RjLDWSyJmtvOPa9PY5c/BwOXuEU",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.SubsystemsModule.dll",
+      "Size": 17408,
+      "LastWriting": "2020-08-20T23:57:18Z",
+      "Hash": "qJA9p5TTUWfRwO/NaQtBD/g2844",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.TerrainModule.dll",
+      "Size": 80896,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "lAMrBR0LY2UsAvQV/4kFhwD+evY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+      "Size": 9728,
+      "LastWriting": "2020-08-20T23:57:24Z",
+      "Hash": "0ah4ByCFQPMQPE5Fh6CBlNPPGZY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.TextCoreModule.dll",
+      "Size": 183808,
+      "LastWriting": "2020-08-20T23:57:28Z",
+      "Hash": "n9I98yYeqrLtOY7bHMeizgcOcCI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "Size": 27648,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "fZ7B3c7Kg1y4x/cC7cSGk9lTI3g",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.TilemapModule.dll",
+      "Size": 26112,
+      "LastWriting": "2020-08-20T23:57:28Z",
+      "Hash": "6AuyWtGZIKHN7rVEcspKxOBogYM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.TLSModule.dll",
+      "Size": 8704,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "+/jD1lkPgvQ4OaTojEdDfzZ0roQ",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.UI.dll",
+      "Size": 227840,
+      "LastWriting": "2020-09-14T00:46:46.5591922Z",
+      "Hash": "2d9/rJdKzRQKa9cnSeK7qN6pZNE",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "Size": 762368,
+      "LastWriting": "2020-08-20T23:57:44Z",
+      "Hash": "/kFHhxP2M0NycuUd/5zcE4aG7SQ",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+      "Size": 47104,
+      "LastWriting": "2020-08-20T23:57:38Z",
+      "Hash": "d49Uz1O4s+497Oxpyi966dWY3z0",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.UIModule.dll",
+      "Size": 23040,
+      "LastWriting": "2020-08-20T23:57:24Z",
+      "Hash": "qy35tWehoNqWz81m15vv8fQ/wn4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.UmbraModule.dll",
+      "Size": 8704,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "nnq5au4HTPq1yC7qwwDvG7l1GEc",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.UNETModule.dll",
+      "Size": 77824,
+      "LastWriting": "2020-08-20T23:57:36Z",
+      "Hash": "m7JqCW1ZIKLLv/rUwXn0VSQBt1g",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "Size": 33280,
+      "LastWriting": "2020-08-20T23:57:36Z",
+      "Hash": "58DxLnmdW5mPUP3U/NAz/ByTRxY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.UnityConnectModule.dll",
+      "Size": 10752,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "b2XY7z3YqbeQROgYkjS6QjBcEz8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+      "Size": 9216,
+      "LastWriting": "2020-08-20T23:57:18Z",
+      "Hash": "H8tpksg5pfZk0lR0j01IgglrvC8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "Size": 11776,
+      "LastWriting": "2020-08-20T23:57:38Z",
+      "Hash": "mijVwr85847EImxpFcofjD+1Qmk",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+      "Size": 11264,
+      "LastWriting": "2020-08-20T23:57:36Z",
+      "Hash": "AwhJC35SFNLQEV6mBSqb7jO+8a4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "Size": 43520,
+      "LastWriting": "2020-08-20T23:57:24Z",
+      "Hash": "IeAsq4H0i3zNXYM0Tym7U/F2w+8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "Size": 10752,
+      "LastWriting": "2020-08-20T23:57:36Z",
+      "Hash": "3xIqFx5IC2z/h6WFfdbnIB3iouM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "Size": 20480,
+      "LastWriting": "2020-08-20T23:57:44Z",
+      "Hash": "RNQMEYqU/QolgXOgB9sx8VDcgPc",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.VehiclesModule.dll",
+      "Size": 12800,
+      "LastWriting": "2020-08-20T23:57:22Z",
+      "Hash": "7+8GFIO763P9rAdyfKISSmt3k04",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.VFXModule.dll",
+      "Size": 36864,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "DnU0jYrGtolXS1ZZPJvPCyTyO+0",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.VideoModule.dll",
+      "Size": 29184,
+      "LastWriting": "2020-08-20T23:57:38Z",
+      "Hash": "D9058Rs3RSq6R8WcPyrU8fuR7HE",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+      "Size": 22016,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "p18YCaUKjpv1lZbZGArxEUwSKuM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.VRModule.dll",
+      "Size": 33280,
+      "LastWriting": "2020-08-20T23:57:40Z",
+      "Hash": "+EkYCAZXnCnGh023O8Y3S/EyoLk",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.WindModule.dll",
+      "Size": 9728,
+      "LastWriting": "2020-08-20T23:57:14Z",
+      "Hash": "3WdKw72MGM65tSXBpij6sou48oQ",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Managed/UnityEngine.XRModule.dll",
+      "Size": 54784,
+      "LastWriting": "2020-08-20T23:57:36Z",
+      "Hash": "TMzXy7RMgOtP7i/pArhWYN/MYOI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Resources/unity default resources",
+      "Size": 4497148,
+      "LastWriting": "2020-08-20T23:51:54Z",
+      "Hash": "0FkuP35mo5AHJxLuFScXF53gXi8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Klippenkampf_Data/Resources/unity_builtin_extra",
+      "Size": 418356,
+      "LastWriting": "2020-09-14T00:46:53.9684102Z",
+      "Hash": "DoqbJU/boQssmsxKd0xDf95dtZ8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+      "Size": 3912192,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "q2vmTlEz5AzCb/e9gU/XtSMY88k",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+      "Size": 612352,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "JhWgcPO80/8QfQfgwN1ZWfhQIjw",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/browscap.ini",
+      "Size": 311984,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "LVRU4WHeiltlkQ8nvXDZ0K2PpHY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/config",
+      "Size": 3276,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "xEg15Igdlal7WXvr/13roCM6WIc",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "Size": 60575,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "s+S1CKqzzyAcBoknE7Q92wxDt64",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "Size": 29116,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "2NtxEfzloI2LfJpuHgrS+/NM/hI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "Size": 2622,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "3Svi28zTRzZxkwGu6SQp1CWOpaA",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/2.0/web.config",
+      "Size": 11686,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "pNfgVRb2PWq2cyeymdT7KFLLhAs",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+      "Size": 1605,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "GH3/UW+USOY+pQeBkLM0eSLEs+s",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "Size": 60575,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "s+S1CKqzzyAcBoknE7Q92wxDt64",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "Size": 33648,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "kkW+/NEWRY6WGWlPGnhcUPphtY4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "Size": 2622,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "jhfirsQjqOb7Q+jL5iFQQCF7uKM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.0/web.config",
+      "Size": 18848,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "fXdtcwy9JTVkcT82Vz3YNmeCeIw",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+      "Size": 1605,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "GH3/UW+USOY+pQeBkLM0eSLEs+s",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "Size": 60575,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "s+S1CKqzzyAcBoknE7Q92wxDt64",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "Size": 34106,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "HhGPS1wcansYWOP8yxsdEJVWGXY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "Size": 2622,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "jhfirsQjqOb7Q+jL5iFQQCF7uKM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.5/web.config",
+      "Size": 18857,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "6j4q1tcdSDxUsShS3L3NC6pWmYg",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+      "Size": 1605,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "GH3/UW+USOY+pQeBkLM0eSLEs+s",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "Size": 25817,
+      "LastWriting": "2020-08-20T23:51:50Z",
+      "Hash": "k2Ug1btcAKGYXXpMTw73Y6kDGGI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "version.data",
+      "Size": 24,
+      "LastWriting": "2020-09-14T22:47:33.3421898Z",
+      "Hash": "fwQOIpklg6H2UsionVxHeyIluTA",
+      "Attributes": 32
+    }
+  ]
+}

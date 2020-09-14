@@ -19,6 +19,11 @@ public class SP_NetworkManager : NetworkManager
     [SerializeField] private SP_NetworkGamePlayer gamePlayerPrefab = null;
     [SerializeField] private GameObject playerSpawnSystem = null;
 
+    [Header("GUI")]
+    [SerializeField] private GameObject inGameMenu = null;
+    [SerializeField] private bool inMenu = false;
+    [SerializeField] private bool inGame = false;
+
     public static event Action OnClientConnected;
     public static event Action OnClientDisconnected;
     public static event Action<NetworkConnection> OnServerReadied;
@@ -169,5 +174,32 @@ public class SP_NetworkManager : NetworkManager
         base.OnServerReady(conn);
 
         OnServerReadied?.Invoke(conn);
+    }
+
+    public void UseDifferentMinPlayers(int minP)
+    {
+        minPlayers = minP;
+    }
+
+    public void ShowInGameMenu()
+    {
+        inMenu = !inMenu;
+
+        if (inGame)
+        {
+            if (inMenu)
+            {
+                Cursor.visible = true;
+                Cursor.lockState = CursorLockMode.None;
+                inGameMenu.gameObject.SetActive(true);
+
+            }
+            else
+            {
+                Cursor.visible = false;
+                Cursor.lockState = CursorLockMode.Locked;
+                inGameMenu.gameObject.SetActive(false);
+            }
+        }
     }
 }

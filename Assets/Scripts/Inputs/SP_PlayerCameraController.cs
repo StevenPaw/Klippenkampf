@@ -12,6 +12,8 @@ public class SP_PlayerCameraController : NetworkBehaviour
     [SerializeField] private Transform playerTransform = null;
     [SerializeField] private CinemachineVirtualCamera virtualCamera = null;
 
+    [SerializeField] private SP_PlayerInterfaceController playerGUI = null;
+
     private Controls controls;
     private Controls Controls
     {
@@ -42,13 +44,16 @@ public class SP_PlayerCameraController : NetworkBehaviour
 
     private void Look(Vector2 lookAxis)
     {
-        float deltaTime = Time.deltaTime;
+        if (!playerGUI.MenuOpen)
+        {
+            float deltaTime = Time.deltaTime;
 
-        transposer.m_FollowOffset.y = Mathf.Clamp(
-            transposer.m_FollowOffset.y - (lookAxis.y * cameraVelocity.y * deltaTime),
-            maxFollowOffset.x,
-            maxFollowOffset.y);
+            transposer.m_FollowOffset.y = Mathf.Clamp(
+                transposer.m_FollowOffset.y - (lookAxis.y * cameraVelocity.y * deltaTime),
+                maxFollowOffset.x,
+                maxFollowOffset.y);
 
-        playerTransform.Rotate(0f, lookAxis.x * cameraVelocity.x * deltaTime, 0f);
+            playerTransform.Rotate(0f, lookAxis.x * cameraVelocity.x * deltaTime, 0f);
+        }
     }
 }

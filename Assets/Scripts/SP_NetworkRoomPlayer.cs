@@ -11,6 +11,9 @@ public class SP_NetworkRoomPlayer : NetworkBehaviour
     [SerializeField] private TMP_Text[] playerReadyTexts = new TMP_Text[8];
     [SerializeField] private Button startGameButton = null;
 
+    [SerializeField] private Button isReadyButton = null;
+    [SerializeField] private TMP_Text isReadyButtonText = null;
+
     [SyncVar(hook = nameof(HandleDisplayNameChanged))]
     public string DisplayName = "Lade...";
     [SyncVar(hook = nameof(HandleReadyStatusChanged))]
@@ -103,6 +106,22 @@ public class SP_NetworkRoomPlayer : NetworkBehaviour
     private void CmdSetDisplayName(string displayName)
     {
         DisplayName = displayName;
+    }
+
+    public void ReadyUp()
+    {
+        if (!IsReady)
+        {
+            isReadyButton.image.color = Color.gray;
+            isReadyButtonText.text = "Nicht bereit?";
+        }
+        else
+        {
+            isReadyButton.image.color = Color.green;
+            isReadyButtonText.text = "Bereit?";
+        }
+
+        CmdReadyUp();
     }
 
     [Command]

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Scene_Lobby.unity
+- path: Assets/MHLab/Patch/Launcher/Scenes/PreGame.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

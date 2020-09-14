@@ -55,23 +55,23 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Mirror\Editor\LogLevelWindow.cs" />
-    <Compile Include="Assets\Mirror\Editor\NetworkScenePostProcess.cs" />
-    <Compile Include="Assets\Mirror\Editor\Logging\LogLevelWindow.cs" />
-    <Compile Include="Assets\Mirror\Editor\NetworkInformationPreview.cs" />
-    <Compile Include="Assets\Mirror\Editor\SceneDrawer.cs" />
-    <Compile Include="Assets\Mirror\Editor\Logging\NetworkLogSettingsEditor.cs" />
-    <Compile Include="Assets\Mirror\Editor\Logging\LogLevelsGUI.cs" />
-    <Compile Include="Assets\Mirror\Editor\NetworkBehaviourInspector.cs" />
-    <Compile Include="Assets\Mirror\Editor\NetworkManagerEditor.cs" />
-    <Compile Include="Assets\Mirror\Editor\EnterPlayModeSettingsCheck.cs" />
-    <Compile Include="Assets\Mirror\Editor\InspectorHelper.cs" />
-    <Compile Include="Assets\Mirror\Editor\SyncVarAttributeDrawer.cs" />
-    <Compile Include="Assets\Mirror\Editor\Logging\LogSettingsEditor.cs" />
-    <Compile Include="Assets\Mirror\Editor\ScriptableObjectUtility.cs" />
+    <Compile Include="Assets\Packages\Mirror\Editor\LogLevelWindow.cs" />
+    <Compile Include="Assets\Packages\Mirror\Editor\NetworkScenePostProcess.cs" />
+    <Compile Include="Assets\Packages\Mirror\Editor\Logging\LogLevelWindow.cs" />
+    <Compile Include="Assets\Packages\Mirror\Editor\NetworkInformationPreview.cs" />
+    <Compile Include="Assets\Packages\Mirror\Editor\SceneDrawer.cs" />
+    <Compile Include="Assets\Packages\Mirror\Editor\Logging\NetworkLogSettingsEditor.cs" />
+    <Compile Include="Assets\Packages\Mirror\Editor\Logging\LogLevelsGUI.cs" />
+    <Compile Include="Assets\Packages\Mirror\Editor\NetworkBehaviourInspector.cs" />
+    <Compile Include="Assets\Packages\Mirror\Editor\NetworkManagerEditor.cs" />
+    <Compile Include="Assets\Packages\Mirror\Editor\EnterPlayModeSettingsCheck.cs" />
+    <Compile Include="Assets\Packages\Mirror\Editor\InspectorHelper.cs" />
+    <Compile Include="Assets\Packages\Mirror\Editor\SyncVarAttributeDrawer.cs" />
+    <Compile Include="Assets\Packages\Mirror\Editor\Logging\LogSettingsEditor.cs" />
+    <Compile Include="Assets\Packages\Mirror\Editor\ScriptableObjectUtility.cs" />
   </ItemGroup>
   <ItemGroup>
-     <None Include="Assets\Mirror\Editor\Mirror.Editor.asmdef" />
+     <None Include="Assets\Packages\Mirror\Editor\Mirror.Editor.asmdef" />
     <Reference Include="UnityEngine">
       <HintPath>E:\Programme\Unity\2020.1.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -277,16 +277,37 @@
       <HintPath>C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Mono.CecilX">
-      <HintPath>Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.dll</HintPath>
+      <HintPath>Assets\Packages\Mirror\Plugins\Mono.Cecil\Mono.CecilX.dll</HintPath>
     </Reference>
     <Reference Include="Mono.CecilX.Mdb">
-      <HintPath>Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Mdb.dll</HintPath>
+      <HintPath>Assets\Packages\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="Mono.CecilX.Pdb">
-      <HintPath>Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Pdb.dll</HintPath>
+      <HintPath>Assets\Packages\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="Mono.CecilX.Rocks">
-      <HintPath>Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Rocks.dll</HintPath>
+      <HintPath>Assets\Packages\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Rocks.dll</HintPath>
+    </Reference>
+    <Reference Include="Serilog">
+      <HintPath>Assets\MHLab\Patch\Plugins\Serilog.dll</HintPath>
+    </Reference>
+    <Reference Include="MHLab.Patch.Core.Client">
+      <HintPath>Assets\MHLab\Patch\Plugins\MHLab.Patch.Core.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>Assets\MHLab\Patch\Plugins\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Serilog.Sinks.File">
+      <HintPath>Assets\MHLab\Patch\Plugins\Serilog.Sinks.File.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Assets\MHLab\Patch\Plugins\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="MHLab.Patch.Core">
+      <HintPath>Assets\MHLab\Patch\Plugins\MHLab.Patch.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="MHLab.Patch.Core.Admin">
+      <HintPath>Assets\MHLab\Patch\Plugins\MHLab.Patch.Core.Admin.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll</HintPath>

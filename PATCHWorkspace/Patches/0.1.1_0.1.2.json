@@ -1,0 +1,67 @@
+{
+  "From": "0.1.1",
+  "To": "0.1.2",
+  "Hash": "xhbQs7uuDBWUL3lJcu/gWz1jjME",
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "Klippenkampf_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2020-09-14T00:46:53.2918031Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klippenkampf_Data/globalgamemanagers.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-14T00:46:53.4865551Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klippenkampf_Data/level0",
+      "Attributes": 32,
+      "LastWriting": "2020-09-14T00:46:51.6646126Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klippenkampf_Data/resources.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-14T00:46:53.757769Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klippenkampf_Data/resources.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-14T00:46:53.753807Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klippenkampf_Data/sharedassets0.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-14T00:46:53.8165756Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Klippenkampf_Data/sharedassets0.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-14T00:46:53.8165756Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2020-09-14T22:47:33.3421898Z"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "Klippenkampf_Data/level1",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "Klippenkampf_Data/sharedassets1.assets",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    }
+  ]
+}
